@@ -24,8 +24,8 @@ import (
 	_ "github.com/xo/xo/templates/jsontpl"
 	_ "github.com/xo/xo/templates/yamltpl"
 
+	"github.com/amksd/xo/internal"
 	"github.com/xo/xo/cmd"
-	"github.com/xo/xo/internal"
 	"github.com/xo/xo/templates"
 )
 
