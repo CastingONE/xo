@@ -9,11 +9,11 @@ import (
 	"strings"
 	"text/template"
 
+	"github.com/amksd/xo/loader"
+	"github.com/amksd/xo/templates"
+	xo "github.com/amksd/xo/types"
 	"github.com/kenshaw/inflector"
 	"github.com/kenshaw/snaker"
-	"github.com/xo/xo/loader"
-	"github.com/xo/xo/templates"
-	xo "github.com/xo/xo/types"
 	"golang.org/x/tools/imports"
 	"mvdan.cc/gofumpt/format"
 )

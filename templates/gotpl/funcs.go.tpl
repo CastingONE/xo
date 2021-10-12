@@ -1,4 +1,4 @@
-// Package funcs provides custom template funcs.
+// Package funcs provides custom template funcs haha.
 package funcs
 
 import (
@@ -11,9 +11,9 @@ import (
 	"text/template"
 
 	"github.com/kenshaw/snaker"
-	"github.com/xo/xo/loader"
-	"github.com/xo/xo/templates/gotpl"
-	xo "github.com/xo/xo/types"
+	"github.com/amksd/xo/loader"
+	"github.com/amksd/xo/templates/gotpl"
+	xo "github.com/amksd/xo/types"
 )
 
 // Init intializes the custom template funcs.

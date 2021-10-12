@@ -12,13 +12,13 @@ import (
 	"strings"
 
 	"github.com/alecthomas/kingpin"
+	"github.com/amksd/xo/loader"
+	"github.com/amksd/xo/models"
+	"github.com/amksd/xo/templates"
+	xo "github.com/amksd/xo/types"
 	"github.com/gobwas/glob"
 	"github.com/xo/dburl"
 	"github.com/xo/dburl/passfile"
-	"github.com/xo/xo/loader"
-	"github.com/xo/xo/models"
-	"github.com/xo/xo/templates"
-	xo "github.com/xo/xo/types"
 	"github.com/yookoala/realpath"
 )
 

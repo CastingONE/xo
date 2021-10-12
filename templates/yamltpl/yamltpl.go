@@ -4,8 +4,8 @@ import (
 	"context"
 	"embed"
 
-	"github.com/xo/xo/templates"
-	xo "github.com/xo/xo/types"
+	"github.com/amksd/xo/templates"
+	xo "github.com/amksd/xo/types"
 )
 
 func init() {

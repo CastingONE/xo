@@ -15,14 +15,14 @@ import (
 //
 // go list ./... |grep -v internal|tail -n +2|sed -e 's%^%//go:generate yaegi extract %'
 //
-//go:generate yaegi extract github.com/xo/xo/cmd
-//go:generate yaegi extract github.com/xo/xo/loader
-//go:generate yaegi extract github.com/xo/xo/models
-//go:generate yaegi extract github.com/xo/xo/templates
-//go:generate yaegi extract github.com/xo/xo/templates/createdbtpl
-//go:generate yaegi extract github.com/xo/xo/templates/dottpl
-//go:generate yaegi extract github.com/xo/xo/templates/gotpl
-//go:generate yaegi extract github.com/xo/xo/templates/jsontpl
-//go:generate yaegi extract github.com/xo/xo/templates/yamltpl
-//go:generate yaegi extract github.com/xo/xo/types
+//go:generate yaegi extract github.com/amksd/xo/cmd
+//go:generate yaegi extract github.com/amksd/xo/loader
+//go:generate yaegi extract github.com/amksd/xo/models
+//go:generate yaegi extract github.com/amksd/xo/templates
+//go:generate yaegi extract github.com/amksd/xo/templates/createdbtpl
+//go:generate yaegi extract github.com/amksd/xo/templates/dottpl
+//go:generate yaegi extract github.com/amksd/xo/templates/gotpl
+//go:generate yaegi extract github.com/amksd/xo/templates/jsontpl
+//go:generate yaegi extract github.com/amksd/xo/templates/yamltpl
+//go:generate yaegi extract github.com/amksd/xo/types
 var Symbols map[string]map[string]reflect.Value = make(map[string]map[string]reflect.Value)

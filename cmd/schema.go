@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/amksd/xo/loader"
+	"github.com/amksd/xo/models"
+	xo "github.com/amksd/xo/types"
 	"github.com/kenshaw/inflector"
-	"github.com/xo/xo/loader"
-	"github.com/xo/xo/models"
-	xo "github.com/xo/xo/types"
 )
 
 // BuildSchema builds a schema.

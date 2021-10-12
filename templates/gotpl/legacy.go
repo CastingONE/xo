@@ -6,8 +6,8 @@ import (
 	"strings"
 	"text/template"
 
+	"github.com/amksd/xo/loader"
 	"github.com/kenshaw/snaker"
-	"github.com/xo/xo/loader"
 )
 
 // addLegacyFuncs adds the legacy template funcs.

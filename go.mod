@@ -21,7 +21,6 @@ require (
 	github.com/sijms/go-ora/v2 v2.2.9
 	github.com/traefik/yaegi v0.10.0
 	github.com/xo/dburl v0.9.0
-	github.com/xo/xo v0.0.0-20211009230519-a73f3fe8b176
 	github.com/yookoala/realpath v1.0.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/mod v0.5.1 // indirect
@@ -44,5 +43,3 @@ require (
 	github.com/spf13/cast v1.4.1 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 )
-
-replace github.com/xo/xo => ./
