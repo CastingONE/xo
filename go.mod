@@ -1,4 +1,4 @@
-module github.com/amksd/xo
+module github.com/CastingONE/xo
 
 go 1.17
 

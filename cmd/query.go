@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/amksd/xo/loader"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/loader"
+	xo "github.com/CastingONE/xo/types"
 )
 
 // BuildQuery builds a query.

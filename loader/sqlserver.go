@@ -3,8 +3,8 @@ package loader
 import (
 	"regexp"
 
-	"github.com/amksd/xo/models"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/models"
+	xo "github.com/CastingONE/xo/types"
 )
 
 func init() {

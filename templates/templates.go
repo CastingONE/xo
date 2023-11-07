@@ -15,8 +15,8 @@ import (
 	"strings"
 	"text/template"
 
+	xo "github.com/CastingONE/xo/types"
 	"github.com/Masterminds/sprig/v3"
-	xo "github.com/amksd/xo/types"
 	"github.com/traefik/yaegi/interp"
 	"github.com/traefik/yaegi/stdlib"
 )

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/amksd/xo/templates/createdbtpl"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/templates/createdbtpl"
+	xo "github.com/CastingONE/xo/types"
 )
 
 // Init intializes the custom template funcs.

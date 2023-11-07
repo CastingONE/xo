@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/amksd/xo/loader"
+	"github.com/CastingONE/xo/loader"
 	"github.com/kenshaw/snaker"
 )
 

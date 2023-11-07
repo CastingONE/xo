@@ -9,8 +9,8 @@ import (
 	"text/template"
 
 	"github.com/kenshaw/snaker"
-	"github.com/amksd/xo/templates/dottpl"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/templates/dottpl"
+	xo "github.com/CastingONE/xo/types"
 )
 
 // Init intializes the custom template funcs.

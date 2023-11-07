@@ -8,7 +8,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/amksd/xo/templates/jsontpl"
+	"github.com/CastingONE/xo/templates/jsontpl"
 )
 
 // Init intializes the custom template funcs.

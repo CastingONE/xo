@@ -11,9 +11,9 @@ import (
 	"text/template"
 
 	"github.com/kenshaw/snaker"
-	"github.com/amksd/xo/loader"
-	"github.com/amksd/xo/templates/gotpl"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/loader"
+	"github.com/CastingONE/xo/templates/gotpl"
+	xo "github.com/CastingONE/xo/types"
 )
 
 // Init intializes the custom template funcs.

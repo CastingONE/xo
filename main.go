@@ -18,15 +18,15 @@ import (
 	_ "github.com/sijms/go-ora/v2"
 
 	// templates
-	_ "github.com/amksd/xo/templates/createdbtpl"
-	_ "github.com/amksd/xo/templates/dottpl"
-	_ "github.com/amksd/xo/templates/gotpl"
-	_ "github.com/amksd/xo/templates/jsontpl"
-	_ "github.com/amksd/xo/templates/yamltpl"
+	_ "github.com/CastingONE/xo/templates/createdbtpl"
+	_ "github.com/CastingONE/xo/templates/dottpl"
+	_ "github.com/CastingONE/xo/templates/gotpl"
+	_ "github.com/CastingONE/xo/templates/jsontpl"
+	_ "github.com/CastingONE/xo/templates/yamltpl"
 
-	"github.com/amksd/xo/cmd"
-	"github.com/amksd/xo/internal"
-	"github.com/amksd/xo/templates"
+	"github.com/CastingONE/xo/cmd"
+	"github.com/CastingONE/xo/internal"
+	"github.com/CastingONE/xo/templates"
 )
 
 // version is the app version.

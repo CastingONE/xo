@@ -5,8 +5,8 @@ import (
 	"embed"
 	"errors"
 
-	"github.com/amksd/xo/templates"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/templates"
+	xo "github.com/CastingONE/xo/types"
 )
 
 func init() {

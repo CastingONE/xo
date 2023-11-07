@@ -3,7 +3,7 @@ package loader
 import (
 	"testing"
 
-	xo "github.com/amksd/xo/types"
+	xo "github.com/CastingONE/xo/types"
 )
 
 func TestMysqlGoType(t *testing.T) {

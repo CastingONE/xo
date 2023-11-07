@@ -9,9 +9,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/amksd/xo/loader"
-	"github.com/amksd/xo/templates"
-	xo "github.com/amksd/xo/types"
+	"github.com/CastingONE/xo/loader"
+	"github.com/CastingONE/xo/templates"
+	xo "github.com/CastingONE/xo/types"
 	"github.com/kenshaw/inflector"
 	"github.com/kenshaw/snaker"
 	"golang.org/x/tools/imports"
